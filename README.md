@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qilin-world
 - 👀 I’m interested in Basketball, badminton
-- 🌱 I am currently working in the field of medical image registration under the guidance of Professor Min Zhe from Shandong University
+- 🌱 I am currently working in the field of medical image registration under the guidance of Professor Min Zhe from Shandong University,currently serving as the President of the 14th and 15th Shandong University Student Intelligent Vehicle Association
 - 💞️ I’m looking to collaborate on medical image registration or other deep learning tasks
 - 📫 How to reach me ：202222171170@mail.sdu.edu.cn
 - 😄 Pronouns: None
